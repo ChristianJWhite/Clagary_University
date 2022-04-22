@@ -112,7 +112,7 @@ class Parser:
             self.endDate = datetime.strptime(timeStr, "%d/%b/%Y:%H:%M:%S")
 
         ####################################################  
-        ####### Write code below to generate outputs #######
+        ####### Code below generates outputs #######
 
         print(typeDict['10914.gif'])    #Shows the times the gif 10914 was accessed
 
